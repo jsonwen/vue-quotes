@@ -12,5 +12,5 @@
 </script>
 
 <style scoped>
-.quote { background-color:#fafafa; padding:2rem; border:1px solid #ddd;}
+.quote { background-color:#fafafa; padding:1rem; border:1px solid #ddd; margin:1rem 0}
 </style>
